@@ -1,0 +1,213 @@
+MOTION Detected from time 0.050000 to time 2.550000 with:
+Total Angular Rotation along Pitch Axis -1.246700 degree :
+Total Angular Rotation along Roll Axis -0.138605 degree:
+Total Angular Rotation along Yaw Axis -2.215304 degree:
+Total Linear Distance along X Axis 0.509861 meter :
+Total Linear Distance along Y Axis -0.294577 meter:
+Total Linear Distance along Z Axis -30.282097 meter:
+
+REST Detected from time 2.550000 to time 5.050000
+
+Total Angular Rotation along Pitch Axis 2.550000 degree :
+Total Angular Rotation along Roll Axis 0.000000 degree:
+Total Angular Rotation along Yaw Axis 0.000000 degree:
+Total Linear Distance along X Axis 0.000000 meter :
+Total Linear Distance along Y Axis 0.000000 meter:
+Total Linear Distance along Z Axis 0.000000 meter:
+
+MOTION Detected from time 5.050000 to time 7.550000 with:
+Total Angular Rotation along Pitch Axis 0.100927 degree :
+Total Angular Rotation along Roll Axis -1.391070 degree:
+Total Angular Rotation along Yaw Axis 1.212140 degree:
+Total Linear Distance along X Axis 0.763422 meter :
+Total Linear Distance along Y Axis 0.381372 meter:
+Total Linear Distance along Z Axis -60.549862 meter:
+
+REST Detected from time 7.550000 to time 10.050000
+
+Total Angular Rotation along Pitch Axis 7.550000 degree :
+Total Angular Rotation along Roll Axis 0.000000 degree:
+Total Angular Rotation along Yaw Axis 0.000000 degree:
+Total Linear Distance along X Axis 0.000000 meter :
+Total Linear Distance along Y Axis 0.000000 meter:
+Total Linear Distance along Z Axis 0.000000 meter:
+
+REST Detected from time 10.050000 to time 12.550000
+
+Total Angular Rotation along Pitch Axis 10.050000 degree :
+Total Angular Rotation along Roll Axis 0.000000 degree:
+Total Angular Rotation along Yaw Axis 0.000000 degree:
+Total Linear Distance along X Axis 0.000000 meter :
+Total Linear Distance along Y Axis 0.000000 meter:
+Total Linear Distance along Z Axis 0.000000 meter:
+
+REST Detected from time 12.550000 to time 15.050000
+
+Total Angular Rotation along Pitch Axis 12.550000 degree :
+Total Angular Rotation along Roll Axis 0.000000 degree:
+Total Angular Rotation along Yaw Axis 0.000000 degree:
+Total Linear Distance along X Axis 0.000000 meter :
+Total Linear Distance along Y Axis 0.000000 meter:
+Total Linear Distance along Z Axis 0.000000 meter:
+
+REST Detected from time 15.050000 to time 17.550000
+
+Total Angular Rotation along Pitch Axis 15.050000 degree :
+Total Angular Rotation along Roll Axis 0.000000 degree:
+Total Angular Rotation along Yaw Axis 0.000000 degree:
+Total Linear Distance along X Axis 0.000000 meter :
+Total Linear Distance along Y Axis 0.000000 meter:
+Total Linear Distance along Z Axis 0.000000 meter:
+
+MOTION Detected from time 17.549999 to time 20.049999 with:
+Total Angular Rotation along Pitch Axis 5.505589 degree :
+Total Angular Rotation along Roll Axis 8.814103 degree:
+Total Angular Rotation along Yaw Axis -3.819670 degree:
+Total Linear Distance along X Axis 1.207716 meter :
+Total Linear Distance along Y Axis 0.485227 meter:
+Total Linear Distance along Z Axis -91.264098 meter:
+
+MOTION Detected from time 20.049999 to time 22.549999 with:
+Total Angular Rotation along Pitch Axis 3.650870 degree :
+Total Angular Rotation along Roll Axis -1.276895 degree:
+Total Angular Rotation along Yaw Axis -0.961501 degree:
+Total Linear Distance along X Axis 5.175993 meter :
+Total Linear Distance along Y Axis -3.769468 meter:
+Total Linear Distance along Z Axis -119.644337 meter:
+
+MOTION Detected from time 22.549999 to time 25.049999 with:
+Total Angular Rotation along Pitch Axis -9.824381 degree :
+Total Angular Rotation along Roll Axis -9.696511 degree:
+Total Angular Rotation along Yaw Axis 3.477279 degree:
+Total Linear Distance along X Axis 9.614575 meter :
+Total Linear Distance along Y Axis -5.660528 meter:
+Total Linear Distance along Z Axis -148.981400 meter:
+
+REST Detected from time 25.049999 to time 27.549999
+
+Total Angular Rotation along Pitch Axis 25.049999 degree :
+Total Angular Rotation along Roll Axis 0.000000 degree:
+Total Angular Rotation along Yaw Axis 0.000000 degree:
+Total Linear Distance along X Axis 0.000000 meter :
+Total Linear Distance along Y Axis 0.000000 meter:
+Total Linear Distance along Z Axis 0.000000 meter:
+
+REST Detected from time 27.549999 to time 30.049999
+
+Total Angular Rotation along Pitch Axis 27.549999 degree :
+Total Angular Rotation along Roll Axis 0.000000 degree:
+Total Angular Rotation along Yaw Axis 0.000000 degree:
+Total Linear Distance along X Axis 0.000000 meter :
+Total Linear Distance along Y Axis 0.000000 meter:
+Total Linear Distance along Z Axis 0.000000 meter:
+
+MOTION Detected from time 30.049999 to time 32.549999 with:
+Total Angular Rotation along Pitch Axis 2.810356 degree :
+Total Angular Rotation along Roll Axis -1.426053 degree:
+Total Angular Rotation along Yaw Axis 61.295524 degree:
+Total Linear Distance along X Axis 9.783680 meter :
+Total Linear Distance along Y Axis -5.671891 meter:
+Total Linear Distance along Z Axis -179.295393 meter:
+
+MOTION Detected from time 32.549999 to time 35.049999 with:
+Total Angular Rotation along Pitch Axis -0.227063 degree :
+Total Angular Rotation along Roll Axis 1.323983 degree:
+Total Angular Rotation along Yaw Axis 28.281971 degree:
+Total Linear Distance along X Axis 9.496689 meter :
+Total Linear Distance along Y Axis -5.744499 meter:
+Total Linear Distance along Z Axis -209.731978 meter:
+
+REST Detected from time 35.049999 to time 37.549999
+
+Total Angular Rotation along Pitch Axis 35.049999 degree :
+Total Angular Rotation along Roll Axis 0.000000 degree:
+Total Angular Rotation along Yaw Axis 0.000000 degree:
+Total Linear Distance along X Axis 0.000000 meter :
+Total Linear Distance along Y Axis 0.000000 meter:
+Total Linear Distance along Z Axis 0.000000 meter:
+
+MOTION Detected from time 37.549999 to time 40.049999 with:
+Total Angular Rotation along Pitch Axis -0.292823 degree :
+Total Angular Rotation along Roll Axis -0.029775 degree:
+Total Angular Rotation along Yaw Axis -86.485927 degree:
+Total Linear Distance along X Axis 9.421457 meter :
+Total Linear Distance along Y Axis -5.454616 meter:
+Total Linear Distance along Z Axis -240.200058 meter:
+
+REST Detected from time 40.049999 to time 42.549999
+
+Total Angular Rotation along Pitch Axis 40.049999 degree :
+Total Angular Rotation along Roll Axis 0.000000 degree:
+Total Angular Rotation along Yaw Axis 0.000000 degree:
+Total Linear Distance along X Axis 0.000000 meter :
+Total Linear Distance along Y Axis 0.000000 meter:
+Total Linear Distance along Z Axis 0.000000 meter:
+
+MOTION Detected from time 42.549999 to time 45.049999 with:
+Total Angular Rotation along Pitch Axis 91.383565 degree :
+Total Angular Rotation along Roll Axis -5.090095 degree:
+Total Angular Rotation along Yaw Axis -4.019340 degree:
+Total Linear Distance along X Axis 8.193570 meter :
+Total Linear Distance along Y Axis -16.521529 meter:
+Total Linear Distance along Z Axis -262.662535 meter:
+
+REST Detected from time 45.049999 to time 47.549999
+
+Total Angular Rotation along Pitch Axis 45.049999 degree :
+Total Angular Rotation along Roll Axis 0.000000 degree:
+Total Angular Rotation along Yaw Axis 0.000000 degree:
+Total Linear Distance along X Axis 0.000000 meter :
+Total Linear Distance along Y Axis 0.000000 meter:
+Total Linear Distance along Z Axis 0.000000 meter:
+
+MOTION Detected from time 47.549999 to time 50.049999 with:
+Total Angular Rotation along Pitch Axis -90.230070 degree :
+Total Angular Rotation along Roll Axis 3.195326 degree:
+Total Angular Rotation along Yaw Axis 3.132099 degree:
+Total Linear Distance along X Axis 7.007069 meter :
+Total Linear Distance along Y Axis -41.940483 meter:
+Total Linear Distance along Z Axis -270.387684 meter:
+
+REST Detected from time 50.049999 to time 52.549999
+
+Total Angular Rotation along Pitch Axis 50.049999 degree :
+Total Angular Rotation along Roll Axis 0.000000 degree:
+Total Angular Rotation along Yaw Axis 0.000000 degree:
+Total Linear Distance along X Axis 0.000000 meter :
+Total Linear Distance along Y Axis 0.000000 meter:
+Total Linear Distance along Z Axis 0.000000 meter:
+
+MOTION Detected from time 52.549999 to time 55.049999 with:
+Total Angular Rotation along Pitch Axis 0.105348 degree :
+Total Angular Rotation along Roll Axis 95.986167 degree:
+Total Angular Rotation along Yaw Axis -4.086369 degree:
+Total Linear Distance along X Axis 16.109920 meter :
+Total Linear Distance along Y Axis -41.953797 meter:
+Total Linear Distance along Z Axis -294.202061 meter:
+
+REST Detected from time 55.049999 to time 57.549999
+
+Total Angular Rotation along Pitch Axis 55.049999 degree :
+Total Angular Rotation along Roll Axis 0.000000 degree:
+Total Angular Rotation along Yaw Axis 0.000000 degree:
+Total Linear Distance along X Axis 0.000000 meter :
+Total Linear Distance along Y Axis 0.000000 meter:
+Total Linear Distance along Z Axis 0.000000 meter:
+
+MOTION Detected from time 57.549999 to time 60.049999 with:
+Total Angular Rotation along Pitch Axis -2.224084 degree :
+Total Angular Rotation along Roll Axis -92.526082 degree:
+Total Angular Rotation along Yaw Axis 2.586902 degree:
+Total Linear Distance along X Axis 42.869785 meter :
+Total Linear Distance along Y Axis -42.002457 meter:
+Total Linear Distance along Z Axis -298.811624 meter:
+
+REST Detected from time 60.049999 to time 62.549999
+
+Total Angular Rotation along Pitch Axis 60.049999 degree :
+Total Angular Rotation along Roll Axis 0.000000 degree:
+Total Angular Rotation along Yaw Axis 0.000000 degree:
+Total Linear Distance along X Axis 0.000000 meter :
+Total Linear Distance along Y Axis 0.000000 meter:
+Total Linear Distance along Z Axis 0.000000 meter:
+

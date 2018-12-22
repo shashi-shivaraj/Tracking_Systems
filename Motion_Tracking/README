@@ -1,0 +1,3 @@
+Determines the motion from the provided raw sensor data from accelerometers and gyroscopes.
+To calculate the motion, the data is integrated for gyroscopes 
+and double integrated for accelerometers.
